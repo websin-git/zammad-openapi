@@ -1,0 +1,13 @@
+/.idea/
+*.iml
+
+/.research/
+/generated/
+/out/
+
+__pycache__/
+*.py[cod]
+.venv/
+
+.DS_Store
+Thumbs.db

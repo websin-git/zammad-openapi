@@ -1,0 +1,8 @@
+extends:
+  - recommended
+
+rules:
+  # Licensing is a repository-owner decision and must not be invented here.
+  info-license: off
+  # These are real upstream Rails routes. Their ordering is authoritative.
+  no-ambiguous-paths: off
